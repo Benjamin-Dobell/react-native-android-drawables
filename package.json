@@ -1,0 +1,24 @@
+{
+  "name": "react-native-android-drawables",
+  "version": "1.0.0",
+  "description": "React Native support for custom Android Drawables",
+  "keywords": [
+    "react",
+    "react-native",
+    "android",
+    "drawable"
+  ],
+  "author": {
+    "name": "Benjamin Dobell",
+    "email": "contact@glassechidna.com.au"
+  },
+  "homepage": "https://github.com/Benjamin-Dobell/react-native-android-drawables",
+  "bugs": {
+    "url": "https://github.com/Benjamin-Dobell/react-native-android-drawables/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Benjamin-Dobell/react-native-android-drawables.git"
+  },
+  "license": "MIT"
+}
