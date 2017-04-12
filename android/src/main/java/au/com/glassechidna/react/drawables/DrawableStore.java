@@ -52,4 +52,10 @@ public class DrawableStore implements DrawableProvider
 
 		return drawable;
 	}
+
+	public void clear()
+	{
+		drawableNameIdMap.clear();
+		drawables.clear();
+	}
 }
